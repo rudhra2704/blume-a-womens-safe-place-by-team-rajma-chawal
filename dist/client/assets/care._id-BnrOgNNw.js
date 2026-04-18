@@ -1,0 +1,1 @@
+import{j as o,L as t}from"./index-CA_Yfpcp.js";import{A as e}from"./AppShell-CSRomZed.js";import{S as r}from"./SectionHeader-W5o5DC6u.js";const m=()=>o.jsxs(e,{children:[o.jsx(r,{title:"Doctor not found",back:"/care"}),o.jsx(t,{to:"/care",className:"text-primary text-sm",children:"Back to search"})]});export{m as notFoundComponent};
